@@ -59,6 +59,11 @@ body {
 	margin: 0px;
 }
 
+.card-login > p {
+	color: white;
+}
+
+
 
 .textfield {
 	display: flex;
